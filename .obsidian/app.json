@@ -1,0 +1,16 @@
+{
+  "readableLineLength": false,
+  "useTab": true,
+  "strictLineBreaks": false,
+  "showInlineTitle": false,
+  "attachmentFolderPath": "./attachments",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "autoConvertHtml": true,
+  "autoPairMarkdown": true
+}

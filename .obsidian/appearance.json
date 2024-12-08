@@ -1,0 +1,18 @@
+{
+  "cssTheme": "AnuPpuccin",
+  "baseFontSizeAction": true,
+  "theme": "moonstone",
+  "enabledCssSnippets": [
+    "extended-colorschemes",
+    "youzhuwa",
+    "line",
+    "line-leading",
+    "divider",
+    "white-space"
+  ],
+  "baseFontSize": 15,
+  "interfaceFontFamily": "Microsoft YaHei",
+  "textFontFamily": "Microsoft YaHei",
+  "monospaceFontFamily": "Consolas",
+  "nativeMenus": false
+}

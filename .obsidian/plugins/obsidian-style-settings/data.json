@@ -1,0 +1,18 @@
+{
+  "anuppuccin-theme-settings-extended@@anp-theme-ext-light": true,
+  "anuppuccin-theme-settings-extended@@anp-theme-ext-amoled": false,
+  "anuppuccin-theme-settings-extended@@anp-theme-ext-dark": true,
+  "things-style@@fancy-code": false,
+  "anuppuccin-theme-settings-extended@@catppuccin-theme-dark-extended": "ctp-everforest-dark",
+  "anuppuccin-theme-settings-extended@@catppuccin-theme-extended": "ctp-notion-light",
+  "anuppuccin-theme-settings@@anp-codeblock-numbers": false,
+  "anuppuccin-theme-settings@@anp-header-color-toggle": false,
+  "anuppuccin-theme-settings@@anp-header-margin-toggle": false,
+  "anuppuccin-theme-settings@@anp-custom-checkboxes": false,
+  "anuppuccin-theme-settings@@anuppuccin-accent-toggle": true,
+  "anuppuccin-theme-settings@@anuppuccin-theme-light": "ctp-latte",
+  "yaozhuwa@css@@blank-line-tweak": true,
+  "yaozhuwa@css@@clutter-free-headings": false,
+  "yaozhuwa@css@@compact-callout": true,
+  "yaozhuwa@css@@increase-paragraph-gap": true
+}

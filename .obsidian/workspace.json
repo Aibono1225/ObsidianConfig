@@ -1,0 +1,226 @@
+{
+  "main": {
+    "id": "6c714308cc1bd013",
+    "type": "split",
+    "children": [
+      {
+        "id": "093df83df269248d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e67e5c9ac07a29aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "French/ChatGPT.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ChatGPT"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "391760fce7905cb4",
+    "type": "split",
+    "children": [
+      {
+        "id": "9d633a6ef1cb3a44",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "19275def9d836aaf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "6a9d20e988dcb323",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "52badf37fc88e2ce",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 226.5
+  },
+  "right": {
+    "id": "c6aba1be5accbd1d",
+    "type": "split",
+    "children": [
+      {
+        "id": "358eb76ca8014ba2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f703b069ef685908",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Keycloak.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Keycloak 的反向链接列表"
+            }
+          },
+          {
+            "id": "96aa4d92ea7dd66d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "阅读/杰克韦尔奇自传.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "杰克韦尔奇自传 的出链列表"
+            }
+          },
+          {
+            "id": "b310a520df91800f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "25e45ca3435295ca",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "阅读/杰克韦尔奇自传.md"
+              },
+              "icon": "lucide-list",
+              "title": "杰克韦尔奇自传 的大纲"
+            }
+          },
+          {
+            "id": "82453853f6f16192",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "插件不再活动"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-kanban:创建新看板": false
+    }
+  },
+  "active": "e67e5c9ac07a29aa",
+  "lastOpenFiles": [
+    "French/未命名 1.md.nssyncsc",
+    "French/未命名.md",
+    "French/ChatGPT.md",
+    "French/Fr.md",
+    "pwd整理.md",
+    "Playground.md",
+    "nodejs.md",
+    "Koa2.md",
+    "French/Dialogue.md",
+    "小红书/斯特拉斯堡找房.md",
+    "未命名/000_坚果云闪电下载介绍.html.nssyncsc",
+    "未命名",
+    "小红书",
+    "日记/2024.11.29.md",
+    "豆知识/wifi.md",
+    "豆知识/attachments/wifi-20241129232606609.png",
+    "豆知识/attachments",
+    "工作日记.md",
+    "Redis.md",
+    "Scratch项目.md",
+    "Typescript.md",
+    "Typescript扩展.md",
+    "Typora指南.md",
+    "Frontend/Angular/Angular.md",
+    "English/TED Talk笔记.md",
+    "Frontend/Angular",
+    "阅读/杰克韦尔奇自传.md",
+    "阅读/2024年.md",
+    "简历.md",
+    "黑话.md",
+    "CP相关/漫画地址.md",
+    "运动/新手健身计划.md",
+    "运动",
+    "日记/2024.10.31.docx",
+    "日记/2024.10.31.docx.nssyncsc",
+    "日记/~$24.10.31.docx",
+    "求职/林亦吟-web前端开发-本科-1年.pdf",
+    "Project/Gaohua/attachments/Portal千人千面及第三方应用组件建设方案-20241029135826182.png",
+    "Project/Gaohua/attachments/Portal千人千面及第三方应用组件建设方案-20241029135752844.png",
+    "地址/attachments/测试-20241023155859781.png",
+    "未命名.canvas",
+    "Pasted image 20241023154452.png",
+    "地址/attachments/测试-20241023155819696.png",
+    "地址/attachments/测试-20241023155800520.webp",
+    "地址/attachments/未阿萨11-20241023155743960.webp",
+    "地址/attachments/Pasted image 20241023155545.png",
+    "地址/attachments/未阿萨11-20241023155428480.webp"
+  ]
+}
